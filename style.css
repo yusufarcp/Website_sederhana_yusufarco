@@ -65,8 +65,8 @@ body {
     flex-direction: column;
     text-decoration: none;
     font-size: 30px;
-    /* background-color: lime;
-    border-radius: 80px; */
+    background-color: lime;
+    /* border-radius: 80px; */
 }
 .img-content {
     width: 40%;
